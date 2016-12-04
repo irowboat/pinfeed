@@ -33,3 +33,4 @@ The API is simple (replace _pinfeed_ with your Heroku app name):
   the same as `https://pinfeed.herokuapp.com/user`.
 
 [1]: https://ifttt.com
+
